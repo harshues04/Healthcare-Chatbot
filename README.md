@@ -1,6 +1,6 @@
 # HealthCare ChatBot using Machine Learning
 
-This is a console-based HealthCare ChatBot that uses machine learning to predict diseases based on user-input symptoms. It also provides descriptions, precautions, and severity analysis for the predicted conditions.
+This is a console-based HealthCare ChatBot that uses machine learning models to predict diseases based on user-input symptoms. It also provides descriptions, precautions, and severity analysis for the predicted conditions.
 
 ## Features
 
